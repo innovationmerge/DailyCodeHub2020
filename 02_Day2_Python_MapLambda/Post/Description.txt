@@ -2,7 +2,7 @@
 
 	"Refresh Revise Reshare"
 
-Day 3 - Advanced python - Square the numbers in the list using Map and Lambda 
+Day 2 - Advanced python - Square the numbers in the list using Map and Lambda 
 
 #Advanced #Python #Programming #Map #Lambda
 

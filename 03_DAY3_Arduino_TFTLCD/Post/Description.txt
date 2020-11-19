@@ -2,7 +2,7 @@
 
 	"Refresh Revise Reshare"
 
-Day 2 - Interfacing TFT LCD with Arduino UNO and Displaying Text
+Day 3 - Interfacing TFT LCD with Arduino UNO and Displaying Text
 
 #DailyCodeHub #Arduino #3.5" #TFT #LCD #Embeeded #Microcontroller 
 

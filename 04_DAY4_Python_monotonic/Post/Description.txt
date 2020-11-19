@@ -2,7 +2,7 @@
 
 	"Refresh Revise Reshare"
 
-Day - Python - Program to check if given array is Monotonic
+Day 4 - Python - Program to check if given array is Monotonic
 
 #Advanced #Python #Programming #interview
 
