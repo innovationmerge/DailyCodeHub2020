@@ -1,0 +1,15 @@
+      "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Day 3 - Advanced python - Square the numbers in the list using Map and Lambda 
+
+#Advanced #Python #Programming #Map #Lambda
+
+Explored usage of Map and Lambda in Python
+- Lambda is an anonymous function with capability of holding a single expression only. 
+- Map is used in scenarios where we need to apply a function/lambda over a sequence of elements.
+
+Reference: https://medium.com/quick-code/advanced-python-made-easy-eece317334fa
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

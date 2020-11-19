@@ -1,0 +1,18 @@
+      "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Day 2 - Interfacing TFT LCD with Arduino UNO and Displaying Text
+
+#DailyCodeHub #Arduino #3.5" #TFT #LCD #Embeeded #Microcontroller 
+
+Explored 3.5" TFT LCD with Arduino UNO
+
+Reference: https://create.arduino.cc/projecthub/electropeak/ultimate-beginner-s-guide-to-run-tft-lcd-displays-by-arduino-081006
+
+iNNovationMerge Articles
+	https://www.innovationmerge.com/2020/06/21/Getting-started-with-3-5-TFT-LCD-with-Arduino-UNO/
+
+	https://www.innovationmerge.com/2020/08/16/Monitor-and-Create-comfort-Study-Work-Space-Environment/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
