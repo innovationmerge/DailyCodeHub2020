@@ -1,0 +1,15 @@
+      "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Day 5 - Python - Program to function as a Grocery calculator
+
+#Advanced #Python #Programming #interview #Class #Objects
+
+Explored how to create grocery calculator, which takes key-value pairs for items
+and their prices, and return the subtotal and total, and can print out the list for you for when you're ready to take it to the store!
+
+
+Reference: http://pythonfiddle.com/grocery-calculator-script/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

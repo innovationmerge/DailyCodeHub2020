@@ -1,0 +1,13 @@
+     Day 6 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 6 - Database - HeidiSQL an Open-Source SQL IDE
+
+#Database #SQL #IDE #Query
+
+Explore how to use Open-Source HeidiSQL IDE with MariaDB, MySQL, Microsoft SQL, PostgreSQL and SQLite.
+
+Reference: https://www.heidisql.com/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
