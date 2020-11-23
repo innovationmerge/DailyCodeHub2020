@@ -11,3 +11,5 @@ Day 4 - Python - Program to check if given array is Monotonic
 Day 5 - Python - Program to function as a Grocery calculator
 
 Day 6 - Database - HeidiSQL an Open-Source SQL IDE
+
+Day 7 - Python - Fuzzy parsing of dates from log data
