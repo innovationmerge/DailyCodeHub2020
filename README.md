@@ -13,3 +13,9 @@ Day 5 - Python - Program to function as a Grocery calculator
 Day 6 - Database - HeidiSQL an Open-Source SQL IDE
 
 Day 7 - Python - Fuzzy parsing of dates from log data
+
+
+
+Day 12 - Python program to extract metadata from tiff and jpeg files
+
+Day 13 - Easy way to convert Files to UTF-8 Encoding in Linux

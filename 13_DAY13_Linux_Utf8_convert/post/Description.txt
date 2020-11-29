@@ -1,0 +1,13 @@
+     Day 13 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 13 - Easy way to convert Files to UTF-8 Encoding in Linux
+
+#Linux, #File #Conversion #iconv
+
+Explored how to convert Files to UTF-8 Encoding in Linux
+
+Reference: https://www.tecmint.com/convert-files-to-utf-8-encoding-in-linux/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

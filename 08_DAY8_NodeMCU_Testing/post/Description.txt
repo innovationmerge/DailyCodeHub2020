@@ -1,0 +1,13 @@
+     Day 8 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 8 - NodeMcu | Testing NodeMCU with Arduino IDE | Blinking LED
+
+#Arduino #IDE #Microcontroller 
+
+Explore how to test NodeMCU with Arduino IDE by Blinking LED
+
+Reference: https://www.innovationmerge.com/2020/04/21/smartHome-build/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

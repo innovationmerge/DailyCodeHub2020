@@ -1,0 +1,13 @@
+     Day 9 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 9 - English Linter using Node
+
+#Node #Linter #English
+
+Explore how to use Linter for English
+
+Reference: https://www.innovationmerge.com/2020/05/09/Error-Detection-in-English-Writing/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
