@@ -14,6 +14,14 @@ Day 6 - Database - HeidiSQL an Open-Source SQL IDE
 
 Day 7 - Python - Fuzzy parsing of dates from log data
 
+Day 8 - Testing NodeMCU with Arduino IDE by Blinking LED
+
+Day 9 - English Linter using Node
+
+Day 10 - Python - Exploratory Data Analysis using Autoplotter
+
+Day 11 - Python - Program to extract geographical information from Raw text
+
 Day 12 - Python program to extract metadata from tiff and jpeg files
 
 Day 13 - Easy way to convert Files to UTF-8 Encoding in Linux
