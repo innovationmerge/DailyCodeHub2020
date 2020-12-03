@@ -14,8 +14,14 @@ Day 6 - Database - HeidiSQL an Open-Source SQL IDE
 
 Day 7 - Python - Fuzzy parsing of dates from log data
 
-
-
 Day 12 - Python program to extract metadata from tiff and jpeg files
 
 Day 13 - Easy way to convert Files to UTF-8 Encoding in Linux
+
+Day 14 - Python program to copy and paste clipboard for Python
+
+Day 15 - Microcontroller - Getting Started with Atmega16-AVR by Blinking LED
+
+Day 16 - Microcontroller - 16*2 LCD Interface with Atmega16-AVR
+
+Day 17 - Microcontroller - Infrared object detection with Atmega16-AVR

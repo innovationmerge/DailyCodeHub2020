@@ -1,0 +1,13 @@
+     Day 15 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 15 - Microcontroller - Getting Started with Atmega16-AVR by Blinking LED
+
+#Microcontroller, #Atmega16 #AVR-Studio #Hex #USBASP
+
+Explored how to Get started with Atmega16-AVR 
+
+Reference: https://circuitdigest.com/microcontroller-projects/how-to-program-avr-microcontroller-atmega16-with-usbasp-programmer-using-atmel-studio
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

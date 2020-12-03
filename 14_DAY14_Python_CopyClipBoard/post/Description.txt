@@ -1,0 +1,13 @@
+     Day 14 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 14 - Python program to copy and paste clipboard for Python
+
+#Python, #Clipboard #pip #copy #paste
+
+Explored how to copy and paste clipboard for Python
+
+Reference: https://pypi.org/project/pyperclip/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

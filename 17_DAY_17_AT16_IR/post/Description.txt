@@ -1,0 +1,11 @@
+     Day 17 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 17 - Microcontroller - Infrared object detection with Atmega16-AVR
+
+#Microcontroller, #Atmega16 #AVR-Studio #Hex #USBASP #IR #ObjectDetection
+
+Explored how to perform Infrared object detection with Atmega16-AVR
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
