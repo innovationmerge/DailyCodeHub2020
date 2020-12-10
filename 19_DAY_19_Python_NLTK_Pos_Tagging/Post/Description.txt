@@ -1,0 +1,13 @@
+      "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Python program to Generate POS(Parts of Speech) Tag for given text using NLTK Toolkit
+
+#NLTK #Python #NLP #Programming #pip
+
+Explored how to Generate POS(Parts of Speech) Tag for given text 
+
+Reference: https://www.nltk.org/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

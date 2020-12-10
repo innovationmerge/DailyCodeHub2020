@@ -1,3 +1,7 @@
+
+[Visit iNNovationMerge DailyCodeHub2020](https://www.innovationmerge.com/explore/)
+
+
 # DailyCodeHub2020
 
 Day 1 - Interfacing LCD with Arduino UNO
@@ -33,3 +37,17 @@ Day 15 - Microcontroller - Getting Started with Atmega16-AVR by Blinking LED
 Day 16 - Microcontroller - 16*2 LCD Interface with Atmega16-AVR
 
 Day 17 - Microcontroller - Infrared object detection with Atmega16-AVR
+
+Day 18 - Python program to Tokenize Words and Sentences with NLTK
+
+Day 19 - Python program to Generate POS(Parts of Speech) Tag for given text using NLTK Toolkit
+
+Day 20 - Python program to Extract Entities for given text using NLTK Toolkit
+
+Day 21 - Python program to create single and multidimensional arrays using numpy
+
+Day 22 - Python program to Perform Arthmetic operations using numpy
+
+Day 23 - Python program to Perform Trigonometric operations using numpy
+
+Day 24 - Python program to Perform comparision operations using numpy
