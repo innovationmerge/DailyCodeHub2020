@@ -1,0 +1,13 @@
+     Day 27 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 27 - View calender of any date/month/year from command line in Linux using cal
+
+#Linux, #calender #Conversion #RaspberryPi #cal #View
+
+Visit : https://www.innovationmerge.com/explore/
+
+Reference: https://www.geeksforgeeks.org/cal-command-in-linux-with-examples/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

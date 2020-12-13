@@ -1,0 +1,40 @@
+pi@raspberrypi:~ $ timedatectl
+      Local time: Thu 2020-11-12 10:25:30 IST
+  Universal time: Thu 2020-11-12 04:55:30 UTC
+        RTC time: n/a
+       Time zone: Asia/Kolkata (IST, +0530)
+     NTP enabled: no
+    NTP synchronized: no
+    RTC in local TZ: no
+        DST active: n/a
+
+pi@raspberrypi:~ $ timedatectl list-timezones | grep America/N
+America/Nassau
+America/New_York
+America/Nipigon
+America/Nome
+America/Noronha
+America/North_Dakota/Beulah
+America/North_Dakota/Center
+America/North_Dakota/New_Salem
+
+
+pi@raspberrypi:~ $ timedatectl
+      Local time: Thu 2020-11-12 00:02:26 EST
+  Universal time: Thu 2020-11-12 05:02:26 UTC
+        RTC time: n/a
+       Time zone: America/New_York (EST, -0500)
+     NTP enabled: no
+NTP synchronized: no
+ RTC in local TZ: no
+      DST active: no
+ Last DST change: DST ended at
+                  Sun 2020-11-01 01:59:59 EDT
+                  Sun 2020-11-01 01:00:00 EST
+ Next DST change: DST begins (the clock jumps one hour forward) at
+                  Sun 2021-03-14 01:59:59 EST
+                  Sun 2021-03-14 03:00:00 EDT
+
+
+
+
