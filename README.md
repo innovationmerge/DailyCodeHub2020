@@ -51,3 +51,23 @@ Day 22 - Python program to Perform Arthmetic operations using numpy
 Day 23 - Python program to Perform Trigonometric operations using numpy
 
 Day 24 - Python program to Perform comparision operations using numpy
+
+Day 25 - Linux - Set Date and time in Linux
+
+Day 26 - Linux - Set timezones in Linux from command line using timedatectl
+
+Day 27 - Linux - View calender of any date/month/year from command line in Linux using cal
+
+Day 28 - Python program to create jpg/png image from base64 string
+
+Day 29 - C++ program to swap two numbers using macros
+
+Day 30 - C++ program for addition of 2 matrices
+
+Day 31 - Python program to encode iNNovationMerge using md5 hash 
+
+Day 32 - Python program to select rows from a DataFrame based on column values
+
+Day 33 - Python program to transpose a dataframe
+
+Day 34 - Python program to Add a new column to an existing Pandas DataFrame
