@@ -1,0 +1,11 @@
+	"iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+# Python program to write an image using OpenCV imwrite() Method
+
+#Python #OpenCv #Image #Processing 
+
+Reference: https://www.geeksforgeeks.org/python-opencv-cv2-imwrite-method/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

@@ -71,3 +71,30 @@ Day 32 - Python program to select rows from a DataFrame based on column values
 Day 33 - Python program to transpose a dataframe
 
 Day 34 - Python program to Add a new column to an existing Pandas DataFrame
+
+Day 35 - Python program to Remove the dash(-) from all element in the Series
+
+Day 36 - Python program to convert date strings into the datetime objects.
+
+Day 37 - Python program to convert string to int and add a number using pandas apply function
+
+Day 38 - Python program to flatten JSON array under the same key using pandas explode function
+
+Day 39 - Python program to set required column as Index by using pandas set_index function
+
+Day 40 - Python program to assigns a rank to the values using pandas rank function
+
+Day 41 - Python program to show how much memory is used by dataframe in bytes using pandas memory_usage function
+
+Day 42 - Python program to calculate the percent change through the values in a series using pandas pct_change function
+
+Day 43 - MSP430G2553 | Bare Minimum code needed to get started with MSP430 and Energia 
+
+Day 44 - MSP430G2553 | Program to Blink an LED on for one second, then off for one second, repeatedly 
+
+Day 45 - MSP430G2553 | Program to read a digital input from on board Pin 5 and print  state out to the Energia Serial Monitor.
+
+Day 46 - MSP430G2553 |  Program to Read an IR Sensor analog input on pin A3 and Decide weather Object Detected or not
+
+Day 47 - MSP430G2553 | Program to Read an Vibration Sensor analog input on pin A3 and Decide weather Vibration is Detected or not
+

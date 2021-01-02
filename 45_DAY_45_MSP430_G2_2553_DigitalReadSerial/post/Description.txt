@@ -1,0 +1,11 @@
+     "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Day 45 - MSP430G2553 | Program to read a digital input from on board Pin 5 and print  state out to the Energia Serial Monitor.
+
+#MSP430 #G2553 #Microcontroller #Energia #IDE #Interview #Embeeded #Systems #TexasInstruments #LED # Read #Serial
+
+Reference: https://energia.nu/guide/tutorials/basics/tutorial_blink/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
