@@ -98,3 +98,18 @@ Day 46 - MSP430G2553 |  Program to Read an IR Sensor analog input on pin A3 and 
 
 Day 47 - MSP430G2553 | Program to Read an Vibration Sensor analog input on pin A3 and Decide weather Vibration is Detected or not
 
+Day 48 - Python program to write an image using OpenCV imwrite() Method
+
+Day 49 - Python program to display an image using OpenCV imshow() Method
+
+Day 50 - Python program to display an image in color spaces using OpenCV split() Method
+
+Day 51 - Python program to detect cricle in image using OpenCV
+
+Day 52 - Python program to Detect corner of an image using OpenCV
+
+Day 53 - Python program to resize of an image using OpenCV
+
+Day 54 - Python program to erode an image using OpenCV
+
+Day 55 - Create new users in Linux from command line using useradd command

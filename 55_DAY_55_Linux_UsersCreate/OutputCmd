@@ -1,0 +1,11 @@
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd user1
+[sudo] password for ubuntu: 
+
+
+ubuntu@ubuntu-VirtualBox:~$ sudo passwd user1
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully
+
+
+ubuntu@ubuntu-VirtualBox:~$ 
