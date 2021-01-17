@@ -1,0 +1,13 @@
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd -D
+GROUP=100
+HOME=/home
+INACTIVE=-1
+EXPIRE=
+SHELL=/bin/sh
+SKEL=/etc/skel
+CREATE_MAIL_SPOOL=no
+
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd -D -s /bin/bash
+
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd -D | grep -i shell
+SHELL=/bin/bash

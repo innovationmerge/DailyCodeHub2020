@@ -1,0 +1,15 @@
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd -e 2021-01-17 user6
+
+ubuntu@ubuntu-VirtualBox:~$ sudo passwd user6
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully
+
+ubuntu@ubuntu-VirtualBox:~$ sudo chage -l user6
+Last password change					: Jan 10, 2021
+Password expires					: never
+Password inactive					: never
+Account expires						: Jan 17, 2021
+Minimum number of days between password change		: 0
+Maximum number of days between password change		: 99999
+Number of days of warning before password expires	: 7

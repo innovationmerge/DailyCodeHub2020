@@ -112,4 +112,18 @@ Day 53 - Python program to resize of an image using OpenCV
 
 Day 54 - Python program to erode an image using OpenCV
 
-Day 55 - Create new users in Linux from command line using useradd command
+Day 55 - Linux | Create new users in Linux from command line using useradd command
+
+Day 56 - Linux | Create new users with Specific Home Directory in Linux from command line using useradd command
+
+Day 57 - Linux | Create new users with Specific Home Directory and Specific User ID in Linux from command line using useradd command
+
+Day 58 - Linux | Create new users with Specific Home Directory, Specific User ID & Specific Group ID in Linux from command line using useradd command
+
+Day 59 - Linux | Create new users with Specific Home Directory, Specific User ID & multiple groups in Linux from command line using useradd command
+
+Day 60 - Linux | Create new users with expiry date in Linux from command line using useradd command
+
+Day 61 - Linux | Create new users with password expiry in Linux from command line using useradd command
+
+Day 62 - Linux | Changing the Default useradd Values in Linux from command line using useradd command

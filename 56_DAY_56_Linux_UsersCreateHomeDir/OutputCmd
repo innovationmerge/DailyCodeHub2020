@@ -1,0 +1,11 @@
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd -m -d /opt/user2 user2
+[sudo] password for ubuntu: 
+
+ubuntu@ubuntu-VirtualBox:~$ sudo passwd user2
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully
+
+ubuntu@ubuntu-VirtualBox:~$ ls -ltr /opt/user2/
+total 12
+-rw-r--r-- 1 user2 user2 8980 Apr 16  2018 examples.desktop

@@ -1,0 +1,13 @@
+     Day 59 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+# Create new users with Specific Home Directory, Specific User ID & multiple groups in Linux from command line using useradd command
+
+#Linux, #users #create #ubuntu #terminal #home #Directory #uuid #groups
+
+Visit : https://www.innovationmerge.com/explore/
+
+Reference: https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

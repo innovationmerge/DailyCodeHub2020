@@ -1,0 +1,13 @@
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd -m -d /opt/user3 -u 1500 user3
+
+ubuntu@ubuntu-VirtualBox:~$ sudo passwd user3
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully
+
+ubuntu@ubuntu-VirtualBox:~$ ls -ltr /opt/user3
+total 12
+-rw-r--r-- 1 user3 user3 8980 Apr 16  2018 examples.desktop
+
+ubuntu@ubuntu-VirtualBox:~$ id -u user3
+1500

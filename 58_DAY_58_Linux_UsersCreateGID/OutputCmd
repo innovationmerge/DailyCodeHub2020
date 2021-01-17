@@ -1,0 +1,19 @@
+ubuntu@ubuntu-VirtualBox:~$ sudo groupadd group1
+
+
+ubuntu@ubuntu-VirtualBox:~$ sudo useradd -m -d /opt/user4 -u 1501 -g group1 user4
+
+ubuntu@ubuntu-VirtualBox:~$ sudo passwd user4
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully
+
+ubuntu@ubuntu-VirtualBox:~$ ls -ltr /opt/user4
+total 12
+-rw-r--r-- 1 user4 group1 8980 Apr 16  2018 examples.desktop
+
+ubuntu@ubuntu-VirtualBox:~$ id -u user4
+1501
+
+ubuntu@ubuntu-VirtualBox:~$ id -gn user4
+group1
