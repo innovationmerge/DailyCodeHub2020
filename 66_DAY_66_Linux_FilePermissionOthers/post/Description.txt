@@ -1,0 +1,13 @@
+     Day 66 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+# Provide user permission to read, write and execute the file in Linux from command line using chmod command
+
+#Linux, #file, #group, #permissions, #ubuntu, #terminal, #home, #Directory, #admin
+
+Visit : https://www.innovationmerge.com/explore/
+
+Reference: https://linuxize.com/post/chmod-command-in-linux/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

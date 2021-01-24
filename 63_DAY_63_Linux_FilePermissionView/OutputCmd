@@ -1,0 +1,3 @@
+ubuntu@ubuntu-VirtualBox:~/Desktop$ touch filename.txt
+ubuntu@ubuntu-VirtualBox:~/Desktop$ ls -ltr filename.txt 
+-rw-r--r-- 1 ubuntu ubuntu 0 Jan 17 12:56 filename.txt

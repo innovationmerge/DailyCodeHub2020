@@ -1,0 +1,7 @@
+Desktop $ touch filename.txt
+Desktop $ ls -ltr filename.txt
+-rwxr----- 1 ubuntu ubuntu 0 Jan 17 15:18 filename.txt
+Desktop $ chmod o+t filename.txt
+Desktop $ ls -ltr filename.txt
+-rwxr----T 1 ubuntu ubuntu 0 Jan 17 15:18 filename.txt
+Desktop $

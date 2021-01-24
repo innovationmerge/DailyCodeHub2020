@@ -127,3 +127,17 @@ Day 60 - Linux | Create new users with expiry date in Linux from command line us
 Day 61 - Linux | Create new users with password expiry in Linux from command line using useradd command
 
 Day 62 - Linux | Changing the Default useradd Values in Linux from command line using useradd command
+
+Day 63 - Linux | Create and view the current file permissions in Linux from command line using ls command
+
+Day 64 - Linux | Provide user permission to read, write and execute the file in Linux from command line using chmod command
+
+Day 65 - Linux | Provide group permission to read, write the file and execute it in Linux from command line using chmod command
+
+Day 66 - Linux | Provide user permission to read, write and execute the file in Linux from command line using chmod command
+
+Day 67 - Linux | Remove the read, write, and execute permission for all users except the file’s owner Linux from command line using chmod command
+
+Day 68 - Linux | Give read, write and execute permission to the file’s owner, read permissions to the file’s group and no permissions to all other users Linux from command line using chmod command
+
+Day 69 - Linux | Add a sticky bit to a given file in Linux from command line using chmod command

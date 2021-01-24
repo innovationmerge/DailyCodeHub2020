@@ -1,0 +1,6 @@
+Desktop $ touch filename.txt
+Desktop $ ls -ltr filename.txt
+-rwxrw-rwx 1 ubuntu ubuntu 0 Jan 17 15:01 filename.txt
+Desktop $ chmod og-rwx filename.txt
+Desktop $ ls -ltr filename.txt
+-rwx------ 1 ubuntu ubuntu 0 Jan 17 15:01 filename.txt
