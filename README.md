@@ -141,3 +141,17 @@ Day 67 - Linux | Remove the read, write, and execute permission for all users ex
 Day 68 - Linux | Give read, write and execute permission to the file’s owner, read permissions to the file’s group and no permissions to all other users Linux from command line using chmod command
 
 Day 69 - Linux | Add a sticky bit to a given file in Linux from command line using chmod command
+
+Day 70 - Raspberry Pi | Python Hello world program execution from Raspberry Pi 3 Model B
+
+Day 71 - Raspberry Pi | Ruby Hello world program execution from Raspberry Pi 3 Model B 
+
+Day 72 - Raspberry Pi | Java Script Hello world program execution from Raspberry Pi 3 Model B 
+
+Day 73 - Raspberry Pi | Bash Hello world program execution from Raspberry Pi 3 Model B 
+
+Day 74 - Raspberry Pi | Java Hello world program execution from Raspberry Pi 3 Model B
+
+Day 75 - Raspberry Pi | C Hello world program execution from Raspberry Pi 3 Model B 
+
+Day 76 - Raspberry Pi | C++ Hello world program execution from Raspberry Pi 3 Model B 
