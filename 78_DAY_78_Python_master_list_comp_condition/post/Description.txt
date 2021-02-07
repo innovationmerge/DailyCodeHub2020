@@ -1,0 +1,13 @@
+	 Day 78 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Master List Comprehensions in Python
+
+Python program to apply conditional statement in List Comprehensions
+
+#Python #list #Comprehension #for #loop #conditional #statement
+
+Reference: https://medium.com/better-programming/9-things-to-know-to-master-list-comprehensions-in-python-8bc0411ec2ed
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

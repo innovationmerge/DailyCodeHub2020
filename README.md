@@ -155,3 +155,17 @@ Day 74 - Raspberry Pi | Java Hello world program execution from Raspberry Pi 3 M
 Day 75 - Raspberry Pi | C Hello world program execution from Raspberry Pi 3 Model B 
 
 Day 76 - Raspberry Pi | C++ Hello world program execution from Raspberry Pi 3 Model B 
+
+Day 77 - Python | program to convert tuple to list with UPPERCASE using List Comprehension
+
+Day 78 - Python | Python program to apply conditional statement in List Comprehensions
+
+Day 79 - Python | Python program to use function in List Comprehensions
+
+Day 80 - Python | Python program to replace map() with List Comprehension
+
+Day 81 - Python | Python program to convert tuple to list with UPPERCASE using NESTED List Comprehensions
+
+Day 82 - Python | Python program to convert tuple to list with UPPERCASE Generate unique elements using NESTED SET List Comprehensions
+
+Day 83 - Python | Python program to convert tuple to list with UPPERCASE Generate word count using NESTED List Comprehensions
