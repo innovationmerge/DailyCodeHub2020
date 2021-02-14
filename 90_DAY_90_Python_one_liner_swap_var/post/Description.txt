@@ -1,0 +1,13 @@
+	 Day 90 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : One liner week with Python
+
+# Python program to swap variables in one line
+
+#Python #list #oneliner #for #loop 
+
+Reference: https://towardsdatascience.com/become-a-python-one-liners-specialist-8c8599d6f9c5
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

@@ -169,3 +169,17 @@ Day 81 - Python | Python program to convert tuple to list with UPPERCASE using N
 Day 82 - Python | Python program to convert tuple to list with UPPERCASE Generate unique elements using NESTED SET List Comprehensions
 
 Day 83 - Python | Python program to convert tuple to list with UPPERCASE Generate word count using NESTED List Comprehensions
+
+Day 84 - Python | Python program to Find factorial of a number in one line
+
+Day 85 - Python | Python program to Find Fibonacci of a number in one line
+
+Day 86 - Python | Python program to check if string is palindrome or not in one line
+
+Day 87 - Python | Python program to flatten a 2-D array in one line
+
+Day 88 - Python | Python program to print the same element many times in one line
+
+Day 89 - Python | Python program to reverse a list in one line
+
+Day 90 - Python | Python program to swap variables in one line
