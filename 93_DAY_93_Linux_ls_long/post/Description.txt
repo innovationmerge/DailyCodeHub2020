@@ -1,0 +1,16 @@
+     Day 93 - "iNNovationMerge DailyCodeHub"
+
+   "{Refresh} [Revise] <Reshare>"
+
+Theme : List week with Linux
+
+# List with long format using Linux from command line
+
+#Linux #file #ls #usr #local #terminal #long
+
+Visit : https://www.innovationmerge.com
+
+Reference: https://www.rapidtables.com/code/linux/ls.html
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
+

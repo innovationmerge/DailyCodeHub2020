@@ -1,0 +1,3 @@
+local $ls -a
+.   bin  games    lib  sbin   src
+..  etc  include  man  share

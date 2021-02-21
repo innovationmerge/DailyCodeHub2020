@@ -183,3 +183,19 @@ Day 88 - Python | Python program to print the same element many times in one lin
 Day 89 - Python | Python program to reverse a list in one line
 
 Day 90 - Python | Python program to swap variables in one line
+
+Day 91 - Linux | List directory with relative path using Linux from command line
+
+Day 92 - Linux | List directory with absolute path using Linux from command line
+
+Day 93 - Linux | List with long format using Linux from command line
+
+Day 94 - Linux | List hidden files using Linux from command line
+
+Day 95 - Linux | Sort by date/time files using Linux from command line
+
+Day 96 - Linux | Sort by size files using Linux from command line
+
+Day 97 - Linux | List files and directories with full path using Linux from command line
+
+Day 98 - Linux | Python program to swap variables in one line

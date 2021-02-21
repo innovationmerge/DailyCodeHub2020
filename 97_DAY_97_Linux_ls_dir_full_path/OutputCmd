@@ -1,0 +1,4 @@
+local $ls -d $PWD/*
+/usr/local/bin    /usr/local/include  /usr/local/sbin
+/usr/local/etc    /usr/local/lib      /usr/local/share
+/usr/local/games  /usr/local/man      /usr/local/src
