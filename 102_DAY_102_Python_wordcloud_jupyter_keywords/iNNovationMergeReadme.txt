@@ -1,5 +1,5 @@
 
-[Visit iNNovationMerge DailyCodeHub2020](https://www.innovationmerge.com/explore/)
+[Visit iNNovationMerge DailyCodeHub2020](https://www.innovationmerge.com/)
 
 
 # DailyCodeHub2020
@@ -198,16 +198,4 @@ Day 96 - Linux | Sort by size files using Linux from command line
 
 Day 97 - Linux | List files and directories with full path using Linux from command line
 
-Day 98 - Python | Python program to Generate a square wordcloud 
-
-Day 99 - Python | Python program to Generate a square wordcloud and display using PIL 
-
-Day 100 - Python | Python program to Generate a wordcloud with masking 
-
-Day 101 - Python | Python program to Generate a square wordcloud in jupyter notebook 
-
-Day 102 - Python |Python program to Generate a keywords and generate wordcloud in jupyter notebook
-
-Day 103 - Python | Python program to Generate a square wordcloud based on frequencies
-
-Day 104 - Python | Python program to Generate a square wordcloud with custom font
+Day 98 - Linux | Python program to swap variables in one line
