@@ -1,0 +1,13 @@
+	 Day 107 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Built in week with Python
+
+# Python program to show all the attributes of an object
+
+#Python #dir #builtin 
+
+Reference: https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

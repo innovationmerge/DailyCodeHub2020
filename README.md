@@ -211,3 +211,17 @@ Day 102 - Python |Python program to Generate a keywords and generate wordcloud i
 Day 103 - Python | Python program to Generate a square wordcloud based on frequencies
 
 Day 104 - Python | Python program to Generate a square wordcloud with custom font
+
+Day 105 - Python | Python program to evaluate all the boolean values in it
+
+Day 106 - Python | Python program to convert integer to unicode and vice versa
+
+Day 107 - Python | Python program to show all the attributes of an object
+
+Day 108 - Python | Python program to get index while looping
+
+Day 109 - Python | Python program to apply filter and get odd numbers
+
+Day 110 - Python | Python program to get sorted and reversed list
+
+Day 111 - Python | Python program to iterate the elements of two lists correspondingly

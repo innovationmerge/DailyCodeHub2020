@@ -1,0 +1,13 @@
+	 Day 105 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Built in week with Python
+
+# Python program to evaluate all the boolean values in it
+
+#Python #all #any #builtin #functions
+
+Reference: https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
