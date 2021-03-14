@@ -225,3 +225,17 @@ Day 109 - Python | Python program to apply filter and get odd numbers
 Day 110 - Python | Python program to get sorted and reversed list
 
 Day 111 - Python | Python program to iterate the elements of two lists correspondingly
+
+Day 112 - Node | Node program to configure Node SDK to interact with AWS S3
+
+Day 113 - Node | Node program to Display List of Amazon S3 Buckets
+
+Day 114 - Node | Node program to Create an Amazon S3 Bucket
+
+Day 115 - Node | Node program to Upload a File to an Amazon S3 Bucket
+
+Day 116 - Node | Node program to List Objects in an Amazon S3 Bucket
+
+Day 117 - Node | Node program to Delete an Amazon S3 Bucket
+
+Day 118 - Node | Node program to Retrieve the Current Bucket Access Control List
