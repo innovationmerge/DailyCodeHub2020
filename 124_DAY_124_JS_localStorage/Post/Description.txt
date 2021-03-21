@@ -1,0 +1,13 @@
+	 Day 124 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme :  Week with JAVA SCRIPT
+
+# Program to explain usage of local storage in JavaScript
+ 
+#DailyCodeHub #JAVAScript #local #storage #Programming
+
+Reference: https://htmldog.com/guides/javascript/advanced/localstorage/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

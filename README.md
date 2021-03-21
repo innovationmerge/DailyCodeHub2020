@@ -239,3 +239,17 @@ Day 116 - Node | Node program to List Objects in an Amazon S3 Bucket
 Day 117 - Node | Node program to Delete an Amazon S3 Bucket
 
 Day 118 - Node | Node program to Retrieve the Current Bucket Access Control List
+
+Day 119 - JavaScript | Java script Data Strucutres
+
+Day 120 - JavaScript | Program to explain Type System of Java script
+
+Day 121 - JavaScript | Program to explain Type Conversions of Java script
+
+Day 122 - JavaScript | Program to managing dates in JavaScript using Moment.js
+
+Day 123 - JavaScript | Program to explain Errors and Exceptions in JavaScript
+
+Day 124 - JavaScript | Program to explain usage of local storage in JavaScript
+
+Day 125 - JavaScript | Program to explain usage strings in JavaScript
