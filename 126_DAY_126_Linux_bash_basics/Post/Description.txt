@@ -1,0 +1,13 @@
+	 Day 126 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Week with Bash programming
+
+# Basic programs to learn Bash programming
+ 
+#DailyCodeHub #BASH #echo #comments #Programming
+
+Reference: https://linuxhint.com/30_bash_script_examples
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

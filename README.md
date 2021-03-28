@@ -253,3 +253,17 @@ Day 123 - JavaScript | Program to explain Errors and Exceptions in JavaScript
 Day 124 - JavaScript | Program to explain usage of local storage in JavaScript
 
 Day 125 - JavaScript | Program to explain usage strings in JavaScript
+
+Day 126 - Linux | Basic programs to learn Bash programming
+
+Day 127 - Linux | Program to explain loops in Bash programming
+
+Day 128 - Linux | Program to use if statements in Bash programming
+
+Day 129 - Linux | Program to understand strings in Bash programming
+
+Day 130 - Linux | Program to understand functions in Bash programming
+
+Day 131 - Linux | Program to SORT text data in file using Bash programming
+
+Day 132 - Linux | Program to SORT numeric data in file using Bash programming
