@@ -1,0 +1,13 @@
+	 Day 137 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Audio analysis week with Python
+
+# Audio Classification using pretrained two class KNN model(knn_sm)
+
+#Python #Audio #Classification #pretrained #model #knn #knn_sm
+
+Reference: https://www.innovationmerge.com:4100/2020/09/29/Audio-Classification-using-Python/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

@@ -267,3 +267,17 @@ Day 130 - Linux | Program to understand functions in Bash programming
 Day 131 - Linux | Program to SORT text data in file using Bash programming
 
 Day 132 - Linux | Program to SORT numeric data in file using Bash programming
+
+Day 133 - Python | Audio Classification using pretrained two class SVM model(svm_rbf_sm)
+
+Day 134 - Python | Audio Classification using pretrained four class SVM model(svm_rbf_4class)
+
+Day 135 - Python | Audio Classification using pretrained eight class SVM model(svm_rbf_movie8class)
+
+Day 136 - Python | Audio Classification using pretrained musical class SVM model(svm_rbf_musical_genre_6)
+
+Day 137 - Python | Audio Classification using pretrained two class KNN model(knn_sm)
+
+Day 138 - Python | Audio Classification using pretrained four class KNN model(knn_4class)
+
+Day 139 - Python | Audio Classification using pretrained eight class KNN model(knn_movie8class)
