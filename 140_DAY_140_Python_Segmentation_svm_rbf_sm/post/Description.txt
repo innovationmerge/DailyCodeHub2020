@@ -1,0 +1,13 @@
+	 Day 140 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Audio segmentation week with Python
+
+# Fix-sized audio segmentation using pretrained two class SVM model(svm_rbf_sm)
+
+#Python #Audio #segmentation #pretrained #model #SVM #svm_rbf_sm
+
+Reference: https://www.innovationmerge.com/2020/10/27/Audio-Segmentation-using-Supervised-Unsupervised-Algorithms-in-Python-Part-1/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

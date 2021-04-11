@@ -1,0 +1,13 @@
+	 Day 143 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Audio segmentation week with Python
+
+# Fix-sized audio segmentation using pretrained Gender class SVM model(svm_rbf_speaker_male_female)
+
+#Python #Audio #segmentation #pretrained #model #SVM #svm_rbf_speaker_male_female
+
+Reference: https://www.innovationmerge.com/2020/10/27/Audio-Segmentation-using-Supervised-Unsupervised-Algorithms-in-Python-Part-1/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

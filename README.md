@@ -281,3 +281,17 @@ Day 137 - Python | Audio Classification using pretrained two class KNN model(knn
 Day 138 - Python | Audio Classification using pretrained four class KNN model(knn_4class)
 
 Day 139 - Python | Audio Classification using pretrained eight class KNN model(knn_movie8class)
+
+Day 140 - Python | Fix-sized audio segmentation using pretrained two class SVM model(svm_rbf_sm)
+
+Day 141 - Python | Fix-sized audio segmentation using pretrained four class SVM model(svm_rbf_4class)
+
+Day 142 - Python | Fix-sized audio segmentation using pretrained eight class SVM model(svm_rbf_movie8class)
+
+Day 143 - Python | Fix-sized audio segmentation using pretrained Gender class SVM model(svm_rbf_speaker_male_female)
+
+Day 144 - Python | Fix-sized audio segmentation using pretrained two class KNN model(knn_sm)
+
+Day 145 - Python | Fix-sized audio segmentation using pretrained four class KNN model(knn_4class)
+
+Day 146 - Python | Fix-sized audio segmentation using pretrained four class KNN model(knn_movie8class)
