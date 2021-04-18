@@ -295,3 +295,17 @@ Day 144 - Python | Fix-sized audio segmentation using pretrained two class KNN m
 Day 145 - Python | Fix-sized audio segmentation using pretrained four class KNN model(knn_4class)
 
 Day 146 - Python | Fix-sized audio segmentation using pretrained four class KNN model(knn_movie8class)
+
+Day 147 - Python | Debugging Python code using breakpoint()
+
+Day 148 - Python | Debugging Python code using pdb
+
+Day 149 - Python | Debugging Python code using icecream instead of print
+
+Day 150 - Python | Inspect Python code Execution using icecream instead of print
+
+Day 151 - Python | Debug Python code with custom prefix using icecream instead of print
+
+Day 152 - Python | Debug Python code with more context using icecream instead of print
+
+Day 153 - Python | Debug Python code with logging using icecream
