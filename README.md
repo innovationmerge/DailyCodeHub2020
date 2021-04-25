@@ -309,3 +309,17 @@ Day 151 - Python | Debug Python code with custom prefix using icecream instead o
 Day 152 - Python | Debug Python code with more context using icecream instead of print
 
 Day 153 - Python | Debug Python code with logging using icecream
+
+Day 154 - Linux | Convert a file from UTF-8 to ASCII//TRANSLIT Encoding using Linux iconv
+
+Day 155 - Linux | Convert a file from utf-16le to utf-8 Encoding using Linux iconv
+
+Day 156 - Linux | Encode file data to base64 using Linux base64
+
+Day 157 - Linux | Decode file data from base64 encoding using Linux base64
+
+Day 158 - Linux | Convert a audio file from mp3 to ogg using Linux ffmpeg
+
+Day 159 - Linux | Convert a video file from mp4 to webm using Linux ffmpeg
+
+Day 160 - Linux | Convert a video file from mp4 to mkv using Linux ffmpeg

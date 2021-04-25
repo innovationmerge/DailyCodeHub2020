@@ -1,0 +1,13 @@
+	 Day 154 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Linux Encoding conversion Week
+
+#Convert a file from UTF-8 to ASCII//TRANSLIT Encoding using Linux iconv
+ 
+#DailyCodeHub #Linux #UTF-8 #ASCII #Script
+
+Reference: https://www.geeksforgeeks.org/iconv-command-in-linux-with-examples/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
