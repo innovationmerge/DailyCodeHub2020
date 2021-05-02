@@ -323,3 +323,17 @@ Day 158 - Linux | Convert a audio file from mp3 to ogg using Linux ffmpeg
 Day 159 - Linux | Convert a video file from mp4 to webm using Linux ffmpeg
 
 Day 160 - Linux | Convert a video file from mp4 to mkv using Linux ffmpeg
+
+Day 161 - Python | Exploratory Data Analysis using python Autoplotter
+
+Day 162 - Python | Exploratory Data Analysis - Data Preview using python Autoplotter
+
+Day 163 - Python | Exploratory Data Analysis - Data Distribution using python Autoplotter
+
+Day 164 - Python | Exploratory Data Analysis - Statistical Analysis using python Autoplotter
+
+Day 165 - Python | Exploratory Data Analysis - Multivariate analysis using python Autoplotter
+
+Day 166 - Python | Exploratory Data Analysis - Univariate analysis using python Autoplotter
+
+Day 167 - Python | Exploratory Data Analysis - Association using python Autoplotter
