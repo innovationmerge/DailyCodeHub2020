@@ -337,3 +337,17 @@ Day 165 - Python | Exploratory Data Analysis - Multivariate analysis using pytho
 Day 166 - Python | Exploratory Data Analysis - Univariate analysis using python Autoplotter
 
 Day 167 - Python | Exploratory Data Analysis - Association using python Autoplotter
+
+Day 168 - Linux | Monitor Raspberry PI resources using htop
+
+Day 169 - Linux | Monitor Raspberry PI resources using atop
+
+Day 170 - Linux | Monitor Raspberry PI resources using nmon
+
+Day 171 - Linux | Monitor Raspberry PI resources using glances
+
+Day 172 - Linux | Monitor Raspberry PI resources using bashtop
+
+Day 173 - Linux | Monitor Raspberry PI resources using netstat
+
+Day 174 - Linux | Monitor Raspberry PI resources using iotop
