@@ -1,0 +1,13 @@
+	 Day 180 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Pattern week with JAVA
+
+# Print Pattern 6 using JAVA
+ 
+#JAVA #Pattern #Print #Interview #basics #JDK 
+
+Reference: 
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
