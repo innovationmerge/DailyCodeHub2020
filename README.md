@@ -353,3 +353,17 @@ Day 173 - Linux | Monitor Raspberry PI resources using netstat
 Day 174 - Linux | Monitor Raspberry PI resources using iotop
 
 DAY 175 - 188 JAVA | Patterns
+
+DAY 189 - Python | NLP - Text Tokenization using spaCy
+
+DAY 190 - Python | NLP - Sentence Detection using spaCy
+
+DAY 191 - Python | NNLP - Identify Text attributes using spaCy
+
+DAY 192 - Python | NLP - Remove stopwords in text using spaCy
+
+DAY 193 - Python | NLP - Lemmatization using spaCy
+
+DAY 194 - Python | NLP - Unique words generation using spaCy
+
+DAY 195 - Python | NLP - Part of Speech Tagging using spaCy
