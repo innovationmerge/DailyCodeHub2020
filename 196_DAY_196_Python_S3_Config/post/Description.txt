@@ -1,0 +1,13 @@
+	 Day 196 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Week with AWS S3 SDK for Python
+
+# Python program to configure boto3 to interact with AWS S3
+
+#Python #AWS #SDK #S3 #innovationmerge #DailyCodeHub
+
+Reference: https://boto3.amazonaws.com/v1/documentation/api/1.9.42/guide/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
