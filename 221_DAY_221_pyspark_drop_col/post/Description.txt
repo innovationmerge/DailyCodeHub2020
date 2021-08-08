@@ -1,0 +1,13 @@
+	 Day 221 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Week with PySpark SQL
+
+# Drop spark dataframe column
+
+#Python #PySpark #SQL #innovationmerge #DailyCodeHub
+
+Reference: https://towardsdatascience.com/pyspark-and-sparksql-basics-6cb4bf967e53
+
+Visit us: https://www.innovationmerge.com/about/
