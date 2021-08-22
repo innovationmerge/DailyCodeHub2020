@@ -400,4 +400,6 @@ DAY - 210 - DAY 251 | Pyspark codes
 
 Day - 251 - DAY 265 | Node ExpressJS codes
 
-Day - 266 - Day 272 | Python - Week with Plotting Different Type of Graphs
+Day - 266 - Day 272 | Python - Plotting Different Type of Graphs using Matplotlib
+
+Day - 273 - Day 279 | Python - Different Type of Graphs using Plotly
