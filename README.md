@@ -407,3 +407,18 @@ Day - 273 - Day 279 | Python - Different Type of Graphs using Plotly
 Day - 280 - Day 286 | Python - OpenCV
 
 Day - 287 - Day 293 | Python - Python Regular Expression
+
+Day - 294 - Day 300 | Week with image preprocessing using OpenCV
+
+Day - 301 - Day 307 | File operations using Linux Touch
+
+Day - 308 - Day 314 | Networking operations in Linux
+
+Day - 315 - Day 328 | Regular python3 codes
+
+Day - 329 - Day 342 | Dummy Data Generation in Python
+
+Day - 343 - Day 352 | GUI Automation using Python
+
+Day - 353 - Day 365 | Natural Language Processing using TextBlob in Python 
+
