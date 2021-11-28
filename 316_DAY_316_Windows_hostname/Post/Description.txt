@@ -1,0 +1,13 @@
+	 Day 316 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Networking operations in Windows
+
+# Check hostname using command line in windows
+
+#Windows #Command #network 
+
+Reference: https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
