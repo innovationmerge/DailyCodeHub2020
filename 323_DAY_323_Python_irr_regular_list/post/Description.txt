@@ -1,0 +1,11 @@
+	 Day 323 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Regular python3 codes
+
+# Python program to convert Irregular List to Single List
+
+#Python #Dictionary #innovationmerge #DailyCodeHub
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

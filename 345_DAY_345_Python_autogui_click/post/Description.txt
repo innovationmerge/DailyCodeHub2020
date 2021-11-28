@@ -1,0 +1,11 @@
+	 Day 345 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : GUI Automation using Python
+
+# Python program to self click on required coordinates
+
+#Python #GUI #Automation #data #datascientist #innovationmerge #DailyCodeHub
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020

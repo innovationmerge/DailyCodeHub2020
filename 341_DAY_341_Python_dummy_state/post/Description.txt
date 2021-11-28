@@ -1,0 +1,11 @@
+	 Day 341 - "iNNovationMerge DailyCodeHub"
+
+	"Refresh Revise Reshare"
+
+Theme : Dummy Data Generation in Python
+
+# Python program generate dummy state
+
+#Python #faker #database #data #datascientist #innovationmerge #DailyCodeHub
+
+Visit Github: https://github.com/innovationmerge/DailyCodeHub2020
